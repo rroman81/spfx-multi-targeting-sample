@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-multi-targeting-sample-client-side-solution",
+    "id": "be9b6080-6e86-4c5b-80c4-3052cf174dbb",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-multi-targeting-sample.sppkg"
+  }
+}
