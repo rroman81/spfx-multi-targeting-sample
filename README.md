@@ -25,7 +25,6 @@ this is a start web part designed to demonstrate functionality across SP2019 and
 ```bash
 git clone the repo
 npm i
-npm i -g gulp
 gulp
 ```
 
