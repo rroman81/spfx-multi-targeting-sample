@@ -9,6 +9,8 @@
     ],
     "extensions": [
       "editorconfig.editorconfig",
+      "davidanson.vscode-markdownlint",
+      "ms-vsliveshare.vsliveshare"
     ],
     "postCreateCommand": "bash .devcontainer/spfx-setup.sh"
   }
